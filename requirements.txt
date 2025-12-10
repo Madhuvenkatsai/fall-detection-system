@@ -1,0 +1,7 @@
+ultralytics
+opencv-python-headless
+pandas
+cvzone
+pygame
+requests
+twilio
